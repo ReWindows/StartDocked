@@ -1,0 +1,12 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from StartDocked.dll by Windissect. 1 member(s).
+namespace Windows::UI::Xaml::UIElement {
+class PointerPressedEvent {
+public:
+    // Category: Method | Source: PDB Internal
+    // Symbol: ?get@PointerPressedEvent@UIElement@Xaml@UI@Windows@@SAPE$AAVRoutedEvent@345@XZ
+    static ::Windows::UI::Xaml::RoutedEvent & * get();
+};
+} // namespace Windows::UI::Xaml::UIElement
